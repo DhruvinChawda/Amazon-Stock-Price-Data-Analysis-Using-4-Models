@@ -1,3 +1,5 @@
+Please check and install all required dependencies before running the code.
+
 Plots snapshots : 
 
 ![Screenshot 2024-07-07 133128](https://github.com/DhruvinChawda/Amazon-Stock-Price-Data-Analysis-Using-4-Models/assets/108188838/1cf5260c-2586-4834-a3a1-49fa090e07d2)
